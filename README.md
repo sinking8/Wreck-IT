@@ -1,9 +1,7 @@
 <div id="top"></div>
 
 
-
-  <h3 align="center">Wreck-IT</h3>
-
+# Wreck-IT
  
 
 <!-- ABOUT THE PROJECT -->
