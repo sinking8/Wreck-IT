@@ -7,7 +7,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-We have developed a web application for spotting and plotting shipwrecks around the world. By logging in to our website, you can access our comprehensive dashboard and view all the shipwreck sites via a map and side by side is a wreck info form which you can fill up to add to our ever expanding database.
+A web application for spotting and plotting shipwrecks around the world. By logging in to our website, you can access our comprehensive dashboard and view all the shipwreck sites via a map and side by side is a wreck info form which you can fill up to add to our ever expanding database.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
